@@ -1,0 +1,10 @@
+{
+  "simulation": "Test.Test",
+  "simulationId": "test-20231108125844773",
+  "start": 1699448335118,
+  "description": "",
+  "scenarios": ["Stress test"],
+  "assertions": [
+
+  ]
+}

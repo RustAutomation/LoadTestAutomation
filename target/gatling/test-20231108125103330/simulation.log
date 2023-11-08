@@ -1,0 +1,71 @@
+RUN	Test.Test	test	1699447863330	 	3.9.0
+REQUEST		Get all games	1699447868594	1699447868594	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447868600
+REQUEST		Get all games	1699447869578	1699447869579	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447869579
+REQUEST		Get all games	1699447870590	1699447870591	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447870591
+REQUEST		Authenticate	1699447870605	1699447870605	KO	j.n.UnknownHostException: videogamedb.uk
+REQUEST		Get all games	1699447871576	1699447871576	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447871577
+REQUEST		Authenticate	1699447871592	1699447871592	KO	j.n.UnknownHostException: videogamedb.uk
+REQUEST		Get all games	1699447872581	1699447872581	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447872581
+REQUEST		Authenticate	1699447872597	1699447872597	KO	j.n.UnknownHostException: videogamedb.uk
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699447872615
+REQUEST		Authenticate	1699447873584	1699447873585	KO	j.n.UnknownHostException: No such host is known (videogamedb.uk)
+REQUEST		Get all games	1699447873584	1699447873585	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447873585
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699447873599
+REQUEST		Get all games	1699447874580	1699447874580	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447874580
+REQUEST		Authenticate	1699447874594	1699447874594	KO	j.n.UnknownHostException: videogamedb.uk
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699447874611
+REQUEST		Get Last Posted Game - Tetris	1699447874632	1699447874632	KO	j.n.UnknownHostException: videogamedb.uk
+REQUEST		Get all games	1699447875574	1699447875574	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447875574
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699447875589
+REQUEST		Authenticate	1699447875589	1699447875589	KO	j.n.UnknownHostException: videogamedb.uk
+REQUEST		Get Last Posted Game - Doom	1699447875605	1699447875605	KO	j.n.UnknownHostException: videogamedb.uk
+REQUEST		Get all games	1699447876575	1699447876575	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447876575
+REQUEST		Authenticate	1699447876590	1699447876590	KO	j.n.UnknownHostException: videogamedb.uk
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699447876606
+REQUEST		Get Last Posted Game - Tetris	1699447876621	1699447876622	KO	j.n.UnknownHostException: videogamedb.uk
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699447876643
+USER	Stress test	END	1699447876648
+REQUEST		Authenticate	1699447877587	1699447877587	KO	j.n.UnknownHostException: videogamedb.uk
+REQUEST		Get all games	1699447877589	1699447877589	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447877589
+REQUEST		Get Last Posted Game - mario	1699447877603	1699447877603	KO	j.n.UnknownHostException: videogamedb.uk
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699447877603
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699447877619
+USER	Stress test	END	1699447877620
+REQUEST		Authenticate	1699447878586	1699447878586	KO	j.n.UnknownHostException: videogamedb.uk
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699447878603
+REQUEST		Get Last Posted Game - CS	1699447878617	1699447878617	KO	j.n.UnknownHostException: videogamedb.uk
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699447878632
+USER	Stress test	END	1699447878633
+REQUEST		Authenticate	1699447879600	1699447879600	KO	j.n.UnknownHostException: videogamedb.uk
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Grand Theft Auto III 	1699447879601
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699447879615
+REQUEST		Get Last Posted Game - mario	1699447879615	1699447879615	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	END	1699447879615
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699447880598
+REQUEST		Get Last Posted Game - Star Wars	1699447880612	1699447880612	KO	j.n.UnknownHostException: videogamedb.uk
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699447880627
+USER	Stress test	END	1699447880628
+REQUEST		Get Last Posted Game - Grand Theft Auto III	1699447881604	1699447881604	KO	j.n.UnknownHostException: videogamedb.uk
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699447881604
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699447881619
+USER	Stress test	END	1699447881620
+REQUEST		Get Last Posted Game - Doom	1699447882602	1699447882602	KO	j.n.UnknownHostException: videogamedb.uk
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699447882617
+USER	Stress test	END	1699447882618
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Grand Theft Auto III 	1699447883620
+USER	Stress test	END	1699447883620
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699447884614
+USER	Stress test	END	1699447884614
+REQUEST		Get Last Posted Game - Tetris	1699447883620	1699447885578	KO	status.find.in([200, 209], 304), found 404
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699447887622
+USER	Stress test	END	1699447887627

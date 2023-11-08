@@ -1,0 +1,113 @@
+RUN	computerdatabase.ComputerDatabaseSimulation	computerdatabasesimulation	1699027221760	test	3.9.0
+REQUEST		Home	1699027234106	1699027234106	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1699027234106	1699027234106	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Admins	START	1699027234111
+USER	Users	START	1699027234111
+REQUEST		Home	1699027235098	1699027235098	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1699027235098
+REQUEST		Search	1699027235119	1699027235119	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Search	1699027235119	1699027235119	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1699027236096	1699027236096	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1699027236096
+REQUEST		Search	1699027236112	1699027236112	KO	j.n.UnknownHostException: computer-database.gatling.io
+ERROR	No attribute named 'computerUrl' is defined: Failed to build request: Select 	1699027236129
+ERROR	No attribute named 'computerUrl' is defined: Failed to build request: Select 	1699027236129
+REQUEST		Search	1699027237098	1699027237099	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1699027237099	1699027237099	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1699027237099
+ERROR	No attribute named 'computerUrl' is defined: Failed to build request: Select 	1699027237114
+REQUEST		Page 0	1699027237148	1699027237148	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 0	1699027237148	1699027237148	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1699027238093	1699027238093	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1699027238094
+ERROR	No attribute named 'computerUrl' is defined: Failed to build request: Select 	1699027238108
+REQUEST		Search	1699027238109	1699027238109	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 0	1699027238124	1699027238124	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1699027238157	1699027238157	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1699027238157	1699027238157	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1699027239096	1699027239096	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Search	1699027239096	1699027239096	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1699027239096	1699027239096	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Admins	START	1699027239097
+USER	Users	START	1699027239097
+ERROR	No attribute named 'computerUrl' is defined: Failed to build request: Select 	1699027239111
+REQUEST		Page 0	1699027239111	1699027239112	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1699027239126	1699027239126	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1699027239173	1699027239173	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1699027239173	1699027239173	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1699027240084	1699027240084	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1699027240084
+REQUEST		Search	1699027240098	1699027240098	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Search	1699027240098	1699027240098	KO	j.n.UnknownHostException: computer-database.gatling.io
+ERROR	No attribute named 'computerUrl' is defined: Failed to build request: Select 	1699027240109
+REQUEST		Page 0	1699027240124	1699027240124	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1699027240124	1699027240124	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1699027240140	1699027240140	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 3	1699027240186	1699027240187	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 3	1699027240186	1699027240187	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Search	1699027241091	1699027241091	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1699027241091	1699027241091	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1699027241091
+ERROR	No attribute named 'computerUrl' is defined: Failed to build request: Select 	1699027241106
+ERROR	No attribute named 'computerUrl' is defined: Failed to build request: Select 	1699027241106
+REQUEST		Page 0	1699027241122	1699027241122	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1699027241138	1699027241138	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1699027241138	1699027241138	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 3	1699027241153	1699027241153	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Form	1699027241199	1699027241200	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Form	1699027241202	1699027241202	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	END	1699027241209
+USER	Admins	END	1699027241209
+REQUEST		Home	1699027242089	1699027242089	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1699027242089
+ERROR	No attribute named 'computerUrl' is defined: Failed to build request: Select 	1699027242103
+REQUEST		Search	1699027242104	1699027242104	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 0	1699027242119	1699027242120	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 0	1699027242119	1699027242119	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1699027242134	1699027242134	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1699027242150	1699027242150	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 3	1699027242150	1699027242150	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	END	1699027242166
+REQUEST		Search	1699027243091	1699027243091	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1699027243091	1699027243091	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1699027243091
+ERROR	No attribute named 'computerUrl' is defined: Failed to build request: Select 	1699027243106
+REQUEST		Page 0	1699027243106	1699027243106	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1699027243122	1699027243122	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1699027243122	1699027243122	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1699027243138	1699027243138	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	END	1699027243152
+REQUEST		Page 3	1699027243152	1699027243153	KO	j.n.UnknownHostException: computer-database.gatling.io
+ERROR	No attribute named 'computerUrl' is defined: Failed to build request: Select 	1699027244103
+USER	Users	END	1699027244166
+REQUEST		Page 2	1699027244134	1699027254450	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		Page 2	1699027244134	1699027254450	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		Page 0	1699027244119	1699027254450	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		Search	1699027244104	1699027264131	KO	i.n.c.ConnectTimeoutException: connection timed out: computer-database.gatling.io/34.193.198.118:443
+REQUEST		Page 3	1699027244149	1699027264163	KO	i.n.c.ConnectTimeoutException: connection timed out: computer-database.gatling.io/204.236.217.34:443
+ERROR	No attribute named 'computerUrl' is defined: Failed to build request: Select 	1699027265142
+USER	Users	END	1699027265174
+REQUEST		Page 0	1699027245118	1699027266344	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		Page 3	1699027255465	1699027277629	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		Page 0	1699027266157	1699027281850	OK	 
+REQUEST		Page 1	1699027244119	1699027282655	KO	j.i.IOException: Premature close
+REQUEST		Page 3	1699027255465	1699027282921	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		Page 1	1699027255465	1699027282921	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Users	END	1699027283930
+REQUEST		Page 1	1699027282873	1699027284260	OK	 
+REQUEST		Page 1	1699027267348	1699027284512	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		Page 2	1699027285274	1699027289303	OK	 
+REQUEST		Page 3	1699027290313	1699027293696	OK	 
+REQUEST		Page 2	1699027283660	1699027293822	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		Page 2	1699027283930	1699027294105	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Users	END	1699027294701
+REQUEST		Form	1699027278641	1699027298660	KO	i.n.c.ConnectTimeoutException: connection timed out: computer-database.gatling.io/34.193.198.118:443
+REQUEST		Page 2	1699027285526	1699027298909	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		Page 3	1699027294826	1699027304963	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Users	END	1699027305966
+REQUEST		Page 3	1699027295121	1699027306338	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Users	END	1699027307353
+REQUEST		Form	1699027298661	1699027308926	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Admins	END	1699027308926
+REQUEST		Page 3	1699027299924	1699027310073	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Users	END	1699027311081

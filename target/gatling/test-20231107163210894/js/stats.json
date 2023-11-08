@@ -1,0 +1,1235 @@
+{
+  "type": "GROUP",
+"name": "All Requests",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "All Requests",
+    "numberOfRequests": {
+        "total": 45,
+        "ok": 35,
+        "ko": 10
+    },
+    "minResponseTime": {
+        "total": 53,
+        "ok": 53,
+        "ko": 128
+    },
+    "maxResponseTime": {
+        "total": 9054,
+        "ok": 9054,
+        "ko": 830
+    },
+    "meanResponseTime": {
+        "total": 1330,
+        "ok": 1594,
+        "ko": 407
+    },
+    "standardDeviation": {
+        "total": 2367,
+        "ok": 2621,
+        "ko": 270
+    },
+    "percentiles1": {
+        "total": 250,
+        "ok": 240,
+        "ko": 282
+    },
+    "percentiles2": {
+        "total": 830,
+        "ok": 1018,
+        "ko": 657
+    },
+    "percentiles3": {
+        "total": 6662,
+        "ok": 7065,
+        "ko": 830
+    },
+    "percentiles4": {
+        "total": 8489,
+        "ok": 8618,
+        "ko": 830
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 25,
+    "percentage": 56
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 2,
+    "percentage": 4
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 8,
+    "percentage": 18
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 10,
+    "percentage": 22
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.875,
+        "ok": 1.4583333333333333,
+        "ko": 0.4166666666666667
+    }
+},
+"contents": {
+"req_get-all-games-c1289": {
+        "type": "REQUEST",
+        "name": "Get all games",
+"path": "Get all games",
+"pathFormatted": "req_get-all-games-c1289",
+"stats": {
+    "name": "Get all games",
+    "numberOfRequests": {
+        "total": 15,
+        "ok": 15,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 217,
+        "ok": 217,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 9054,
+        "ok": 9054,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 3519,
+        "ok": 3519,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 3088,
+        "ok": 3088,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 2474,
+        "ok": 2474,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 6017,
+        "ok": 6017,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 8156,
+        "ok": 8156,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 8874,
+        "ok": 8874,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 5,
+    "percentage": 33
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 2,
+    "percentage": 13
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 8,
+    "percentage": 53
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.625,
+        "ok": 0.625,
+        "ko": 0
+    }
+}
+    },"req_authenticate-ea80a": {
+        "type": "REQUEST",
+        "name": "Authenticate",
+"path": "Authenticate",
+"pathFormatted": "req_authenticate-ea80a",
+"stats": {
+    "name": "Authenticate",
+    "numberOfRequests": {
+        "total": 15,
+        "ok": 15,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 53,
+        "ok": 53,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 240,
+        "ok": 240,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 114,
+        "ok": 114,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 54,
+        "ok": 54,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 86,
+        "ok": 86,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 132,
+        "ok": 132,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 217,
+        "ok": 217,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 235,
+        "ok": 235,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 15,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.625,
+        "ok": 0.625,
+        "ko": 0
+    }
+}
+    },"req_create-new-game-4e67c": {
+        "type": "REQUEST",
+        "name": "Create New Game - Star Wars",
+"path": "Create New Game - Star Wars",
+"pathFormatted": "req_create-new-game-4e67c",
+"stats": {
+    "name": "Create New Game - Star Wars",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 261,
+        "ok": 261,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 261,
+        "ok": 261,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 261,
+        "ok": 261,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 261,
+        "ok": 261,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 261,
+        "ok": 261,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 261,
+        "ok": 261,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 261,
+        "ok": 261,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.041666666666666664,
+        "ok": 0.041666666666666664,
+        "ko": 0
+    }
+}
+    },"req_create-new-game-fadb3": {
+        "type": "REQUEST",
+        "name": "Create New Game - Doom",
+"path": "Create New Game - Doom",
+"pathFormatted": "req_create-new-game-fadb3",
+"stats": {
+    "name": "Create New Game - Doom",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 216,
+        "ok": 216,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 216,
+        "ok": 216,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 216,
+        "ok": 216,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 216,
+        "ok": 216,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 216,
+        "ok": 216,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 216,
+        "ok": 216,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 216,
+        "ok": 216,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.041666666666666664,
+        "ok": 0.041666666666666664,
+        "ko": 0
+    }
+}
+    },"req_get-last-posted-a7e36": {
+        "type": "REQUEST",
+        "name": "Get Last Posted Game - Star Wars",
+"path": "Get Last Posted Game - Star Wars",
+"pathFormatted": "req_get-last-posted-a7e36",
+"stats": {
+    "name": "Get Last Posted Game - Star Wars",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 211,
+        "ok": 0,
+        "ko": 211
+    },
+    "maxResponseTime": {
+        "total": 211,
+        "ok": 0,
+        "ko": 211
+    },
+    "meanResponseTime": {
+        "total": 211,
+        "ok": 0,
+        "ko": 211
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 211,
+        "ok": 0,
+        "ko": 211
+    },
+    "percentiles2": {
+        "total": 211,
+        "ok": 0,
+        "ko": 211
+    },
+    "percentiles3": {
+        "total": 211,
+        "ok": 0,
+        "ko": 211
+    },
+    "percentiles4": {
+        "total": 211,
+        "ok": 0,
+        "ko": 211
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 1,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.041666666666666664,
+        "ok": 0,
+        "ko": 0.041666666666666664
+    }
+}
+    },"req_create-new-game-c9162": {
+        "type": "REQUEST",
+        "name": "Create New Game - mario",
+"path": "Create New Game - mario",
+"pathFormatted": "req_create-new-game-c9162",
+"stats": {
+    "name": "Create New Game - mario",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 229,
+        "ok": 229,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 274,
+        "ok": 274,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 252,
+        "ok": 252,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 23,
+        "ok": 23,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 252,
+        "ok": 252,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 263,
+        "ok": 263,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 272,
+        "ok": 272,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 274,
+        "ok": 274,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.08333333333333333,
+        "ok": 0.08333333333333333,
+        "ko": 0
+    }
+}
+    },"req_get-last-posted-d86f5": {
+        "type": "REQUEST",
+        "name": "Get Last Posted Game - Doom",
+"path": "Get Last Posted Game - Doom",
+"pathFormatted": "req_get-last-posted-d86f5",
+"stats": {
+    "name": "Get Last Posted Game - Doom",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 240,
+        "ok": 0,
+        "ko": 240
+    },
+    "maxResponseTime": {
+        "total": 240,
+        "ok": 0,
+        "ko": 240
+    },
+    "meanResponseTime": {
+        "total": 240,
+        "ok": 0,
+        "ko": 240
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 240,
+        "ok": 0,
+        "ko": 240
+    },
+    "percentiles2": {
+        "total": 240,
+        "ok": 0,
+        "ko": 240
+    },
+    "percentiles3": {
+        "total": 240,
+        "ok": 0,
+        "ko": 240
+    },
+    "percentiles4": {
+        "total": 240,
+        "ok": 0,
+        "ko": 240
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 1,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.041666666666666664,
+        "ok": 0,
+        "ko": 0.041666666666666664
+    }
+}
+    },"req_delete-game---s-8a317": {
+        "type": "REQUEST",
+        "name": "Delete Game - Star Wars",
+"path": "Delete Game - Star Wars",
+"pathFormatted": "req_delete-game---s-8a317",
+"stats": {
+    "name": "Delete Game - Star Wars",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 189,
+        "ok": 0,
+        "ko": 189
+    },
+    "maxResponseTime": {
+        "total": 189,
+        "ok": 0,
+        "ko": 189
+    },
+    "meanResponseTime": {
+        "total": 189,
+        "ok": 0,
+        "ko": 189
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 189,
+        "ok": 0,
+        "ko": 189
+    },
+    "percentiles2": {
+        "total": 189,
+        "ok": 0,
+        "ko": 189
+    },
+    "percentiles3": {
+        "total": 189,
+        "ok": 0,
+        "ko": 189
+    },
+    "percentiles4": {
+        "total": 189,
+        "ok": 0,
+        "ko": 189
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 1,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.041666666666666664,
+        "ok": 0,
+        "ko": 0.041666666666666664
+    }
+}
+    },"req_get-last-posted-66227": {
+        "type": "REQUEST",
+        "name": "Get Last Posted Game - mario",
+"path": "Get Last Posted Game - mario",
+"pathFormatted": "req_get-last-posted-66227",
+"stats": {
+    "name": "Get Last Posted Game - mario",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 0,
+        "ko": 2
+    },
+    "minResponseTime": {
+        "total": 276,
+        "ok": 0,
+        "ko": 276
+    },
+    "maxResponseTime": {
+        "total": 288,
+        "ok": 0,
+        "ko": 288
+    },
+    "meanResponseTime": {
+        "total": 282,
+        "ok": 0,
+        "ko": 282
+    },
+    "standardDeviation": {
+        "total": 6,
+        "ok": 0,
+        "ko": 6
+    },
+    "percentiles1": {
+        "total": 282,
+        "ok": 0,
+        "ko": 282
+    },
+    "percentiles2": {
+        "total": 285,
+        "ok": 0,
+        "ko": 285
+    },
+    "percentiles3": {
+        "total": 287,
+        "ok": 0,
+        "ko": 287
+    },
+    "percentiles4": {
+        "total": 288,
+        "ok": 0,
+        "ko": 288
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 2,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.08333333333333333,
+        "ok": 0,
+        "ko": 0.08333333333333333
+    }
+}
+    },"req_delete-game---d-a646a": {
+        "type": "REQUEST",
+        "name": "Delete Game - Doom",
+"path": "Delete Game - Doom",
+"pathFormatted": "req_delete-game---d-a646a",
+"stats": {
+    "name": "Delete Game - Doom",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 302,
+        "ok": 0,
+        "ko": 302
+    },
+    "maxResponseTime": {
+        "total": 302,
+        "ok": 0,
+        "ko": 302
+    },
+    "meanResponseTime": {
+        "total": 302,
+        "ok": 0,
+        "ko": 302
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 302,
+        "ok": 0,
+        "ko": 302
+    },
+    "percentiles2": {
+        "total": 302,
+        "ok": 0,
+        "ko": 302
+    },
+    "percentiles3": {
+        "total": 302,
+        "ok": 0,
+        "ko": 302
+    },
+    "percentiles4": {
+        "total": 302,
+        "ok": 0,
+        "ko": 302
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 1,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.041666666666666664,
+        "ok": 0,
+        "ko": 0.041666666666666664
+    }
+}
+    },"req_create-new-game-17c84": {
+        "type": "REQUEST",
+        "name": "Create New Game - Tetris",
+"path": "Create New Game - Tetris",
+"pathFormatted": "req_create-new-game-17c84",
+"stats": {
+    "name": "Create New Game - Tetris",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 302,
+        "ok": 302,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 302,
+        "ok": 302,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 302,
+        "ok": 302,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 302,
+        "ok": 302,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 302,
+        "ok": 302,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 302,
+        "ok": 302,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 302,
+        "ok": 302,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.041666666666666664,
+        "ok": 0.041666666666666664,
+        "ko": 0
+    }
+}
+    },"req_delete-game---m-e7939": {
+        "type": "REQUEST",
+        "name": "Delete Game - mario",
+"path": "Delete Game - mario",
+"pathFormatted": "req_delete-game---m-e7939",
+"stats": {
+    "name": "Delete Game - mario",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 0,
+        "ko": 2
+    },
+    "minResponseTime": {
+        "total": 128,
+        "ok": 0,
+        "ko": 128
+    },
+    "maxResponseTime": {
+        "total": 830,
+        "ok": 0,
+        "ko": 830
+    },
+    "meanResponseTime": {
+        "total": 479,
+        "ok": 0,
+        "ko": 479
+    },
+    "standardDeviation": {
+        "total": 351,
+        "ok": 0,
+        "ko": 351
+    },
+    "percentiles1": {
+        "total": 479,
+        "ok": 0,
+        "ko": 479
+    },
+    "percentiles2": {
+        "total": 655,
+        "ok": 0,
+        "ko": 655
+    },
+    "percentiles3": {
+        "total": 795,
+        "ok": 0,
+        "ko": 795
+    },
+    "percentiles4": {
+        "total": 823,
+        "ok": 0,
+        "ko": 823
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 2,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.08333333333333333,
+        "ok": 0,
+        "ko": 0.08333333333333333
+    }
+}
+    },"req_get-last-posted-76387": {
+        "type": "REQUEST",
+        "name": "Get Last Posted Game - Tetris",
+"path": "Get Last Posted Game - Tetris",
+"pathFormatted": "req_get-last-posted-76387",
+"stats": {
+    "name": "Get Last Posted Game - Tetris",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 830,
+        "ok": 0,
+        "ko": 830
+    },
+    "maxResponseTime": {
+        "total": 830,
+        "ok": 0,
+        "ko": 830
+    },
+    "meanResponseTime": {
+        "total": 830,
+        "ok": 0,
+        "ko": 830
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 830,
+        "ok": 0,
+        "ko": 830
+    },
+    "percentiles2": {
+        "total": 830,
+        "ok": 0,
+        "ko": 830
+    },
+    "percentiles3": {
+        "total": 830,
+        "ok": 0,
+        "ko": 830
+    },
+    "percentiles4": {
+        "total": 830,
+        "ok": 0,
+        "ko": 830
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 1,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.041666666666666664,
+        "ok": 0,
+        "ko": 0.041666666666666664
+    }
+}
+    },"req_delete-game---t-a02aa": {
+        "type": "REQUEST",
+        "name": "Delete Game - Tetris",
+"path": "Delete Game - Tetris",
+"pathFormatted": "req_delete-game---t-a02aa",
+"stats": {
+    "name": "Delete Game - Tetris",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 775,
+        "ok": 0,
+        "ko": 775
+    },
+    "maxResponseTime": {
+        "total": 775,
+        "ok": 0,
+        "ko": 775
+    },
+    "meanResponseTime": {
+        "total": 775,
+        "ok": 0,
+        "ko": 775
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 775,
+        "ok": 0,
+        "ko": 775
+    },
+    "percentiles2": {
+        "total": 775,
+        "ok": 0,
+        "ko": 775
+    },
+    "percentiles3": {
+        "total": 775,
+        "ok": 0,
+        "ko": 775
+    },
+    "percentiles4": {
+        "total": 775,
+        "ok": 0,
+        "ko": 775
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t ≥ 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t ≥ 1200 ms",
+    "htmlName": "t ≥ 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 1,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.041666666666666664,
+        "ok": 0,
+        "ko": 0.041666666666666664
+    }
+}
+    }
+}
+
+}

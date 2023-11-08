@@ -1,0 +1,71 @@
+RUN	Test.Test	test	1699447962794	 	3.9.0
+REQUEST		Get all games	1699447980149	1699447980149	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447980153
+REQUEST		Get all games	1699447981139	1699447981139	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447981139
+REQUEST		Get all games	1699447982156	1699447982156	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447982156
+REQUEST		Authenticate	1699447982158	1699447982158	KO	j.n.UnknownHostException: videogamedb.uk
+REQUEST		Get all games	1699447983135	1699447983135	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447983135
+REQUEST		Authenticate	1699447983150	1699447983151	KO	j.n.UnknownHostException: videogamedb.uk
+REQUEST		Get all games	1699447984141	1699447984141	KO	j.n.UnknownHostException: videogamedb.uk
+USER	Stress test	START	1699447984141
+REQUEST		Authenticate	1699447984172	1699447984172	KO	j.n.UnknownHostException: videogamedb.uk
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699447984177
+USER	Stress test	START	1699447985132
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699447985161
+REQUEST		Get all games	1699447985130	1699447985595	OK	 
+REQUEST		Authenticate	1699447985146	1699447985595	OK	 
+USER	Stress test	START	1699447986141
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699447986186
+REQUEST		Get Last Posted Game - mario	1699447986188	1699447986622	KO	status.find.in([200, 209], 304), found 404
+USER	Stress test	START	1699447987132
+REQUEST		Get Last Posted Game - mario	1699447987164	1699447987429	KO	status.find.in([200, 209], 304), found 404
+REQUEST		Authenticate	1699447987607	1699447987670	OK	 
+REQUEST		Get all games	1699447986140	1699447987701	OK	 
+REQUEST		Get all games	1699447987132	1699447987701	OK	 
+REQUEST		Create New Game - Grand Theft Auto III	1699447987655	1699447987737	KO	status.find.in([200, 209], 304), found 400
+REQUEST		Authenticate	1699447986155	1699447988010	OK	 
+USER	Stress test	START	1699447988143
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699447988636
+USER	Stress test	END	1699447988642
+REQUEST		Get Last Posted Game - mario	1699447988203	1699447989032	KO	status.find.in([200, 209], 304), found 404
+USER	Stress test	START	1699447989133
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699447989440
+USER	Stress test	END	1699447989441
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699447991033
+USER	Stress test	END	1699447991035
+REQUEST		Authenticate	1699447989703	1699447994619	OK	 
+REQUEST		Get all games	1699447988142	1699447995411	OK	 
+REQUEST		Create New Game - Tetris	1699447989673	1699447996239	KO	status.find.in([200, 209], 304), found 400
+REQUEST		Create New Game - Doom	1699447990026	1699447996387	KO	status.find.in([200, 209], 304), found 400
+REQUEST		Get all games	1699447989133	1699447996416	OK	 
+REQUEST		Authenticate	1699447989703	1699447996450	OK	 
+REQUEST		Create New Game - Doom	1699447996632	1699447996792	KO	status.find.in([200, 209], 304), found 400
+REQUEST		Get Last Posted Game - Doom	1699447998802	1699448006815	KO	status.find.in([200, 209], 304), found 404
+REQUEST		Get Last Posted Game - Grand Theft Auto III	1699447989750	1699448006902	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		Authenticate	1699447998430	1699448008150	OK	 
+REQUEST		Authenticate	1699447997424	1699448008194	OK	 
+REQUEST		Get Last Posted Game - Tetris	1699447998243	1699448008250	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - Doom	1699447998398	1699448008408	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Delete Game - Doom	1699448008825	1699448008924	KO	status.find.in([200, 209], 304), found 404
+USER	Stress test	END	1699448008930
+REQUEST		Delete Game - Grand Theft Auto III	1699448008917	1699448009259	OK	 
+USER	Stress test	END	1699448009261
+REQUEST		Create New Game - CS	1699448010203	1699448010337	KO	status.find.in([200, 209], 304), found 400
+REQUEST		Create New Game - Tetris	1699448010156	1699448010337	KO	status.find.in([200, 209], 304), found 400
+REQUEST		Delete Game - Tetris	1699448010263	1699448011212	KO	status.find.in([200, 209], 304), found 404
+USER	Stress test	END	1699448011214
+REQUEST		Delete Game - Doom	1699448010424	1699448011356	KO	status.find.in([200, 209], 304), found 404
+USER	Stress test	END	1699448011358
+REQUEST		Create New Game - mario	1699447998462	1699448012111	KO	status.find.in([200, 209], 304), found 400
+REQUEST		Get Last Posted Game - CS	1699448012346	1699448012819	KO	status.find.in([200, 209], 304), found 404
+REQUEST		Get Last Posted Game - Tetris	1699448012346	1699448012819	KO	status.find.in([200, 209], 304), found 404
+REQUEST		Get Last Posted Game - mario	1699448014116	1699448014392	KO	status.find.in([200, 209], 304), found 404
+REQUEST		Delete Game - CS	1699448014822	1699448014949	KO	status.find.in([200, 209], 304), found 404
+REQUEST		Delete Game - Tetris	1699448014822	1699448014949	KO	status.find.in([200, 209], 304), found 404
+USER	Stress test	END	1699448014951
+USER	Stress test	END	1699448014951
+REQUEST		Delete Game - mario	1699448016398	1699448017050	KO	status.find.in([200, 209], 304), found 404
+USER	Stress test	END	1699448017052

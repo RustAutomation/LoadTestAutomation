@@ -1,0 +1,701 @@
+RUN	Test.Test	test	1699428156382	 	3.9.0
+USER	Stress test	START	1699428162004
+USER	Stress test	START	1699428162093
+USER	Stress test	START	1699428162184
+USER	Stress test	START	1699428162292
+USER	Stress test	START	1699428162387
+USER	Stress test	START	1699428162496
+USER	Stress test	START	1699428162588
+USER	Stress test	START	1699428162698
+USER	Stress test	START	1699428162791
+USER	Stress test	START	1699428162901
+USER	Stress test	START	1699428162993
+USER	Stress test	START	1699428163086
+USER	Stress test	START	1699428163194
+USER	Stress test	START	1699428163287
+USER	Stress test	START	1699428163395
+USER	Stress test	START	1699428163487
+USER	Stress test	START	1699428163597
+USER	Stress test	START	1699428163690
+USER	Stress test	START	1699428163799
+USER	Stress test	START	1699428163893
+USER	Stress test	START	1699428164000
+USER	Stress test	START	1699428164094
+USER	Stress test	START	1699428164186
+USER	Stress test	START	1699428164295
+USER	Stress test	START	1699428164388
+USER	Stress test	START	1699428164499
+USER	Stress test	START	1699428164586
+USER	Stress test	START	1699428164693
+USER	Stress test	START	1699428164791
+USER	Stress test	START	1699428164895
+USER	Stress test	START	1699428164987
+USER	Stress test	START	1699428165094
+USER	Stress test	START	1699428165187
+USER	Stress test	START	1699428165295
+USER	Stress test	START	1699428165388
+USER	Stress test	START	1699428165495
+USER	Stress test	START	1699428165589
+USER	Stress test	START	1699428165697
+USER	Stress test	START	1699428165789
+USER	Stress test	START	1699428165896
+USER	Stress test	START	1699428165993
+USER	Stress test	START	1699428166097
+USER	Stress test	START	1699428166190
+USER	Stress test	START	1699428166282
+USER	Stress test	START	1699428166391
+USER	Stress test	START	1699428166483
+USER	Stress test	START	1699428166592
+USER	Stress test	START	1699428166686
+USER	Stress test	START	1699428166794
+USER	Stress test	START	1699428166888
+USER	Stress test	START	1699428166995
+USER	Stress test	START	1699428167087
+USER	Stress test	START	1699428167194
+USER	Stress test	START	1699428167285
+USER	Stress test	START	1699428167394
+USER	Stress test	START	1699428167487
+USER	Stress test	START	1699428167594
+USER	Stress test	START	1699428167688
+USER	Stress test	START	1699428167796
+USER	Stress test	START	1699428167889
+USER	Stress test	START	1699428167997
+USER	Stress test	START	1699428168088
+USER	Stress test	START	1699428168197
+USER	Stress test	START	1699428168289
+USER	Stress test	START	1699428168382
+USER	Stress test	START	1699428168490
+USER	Stress test	START	1699428168598
+USER	Stress test	START	1699428168689
+USER	Stress test	START	1699428168794
+USER	Stress test	START	1699428168887
+USER	Stress test	START	1699428168994
+USER	Stress test	START	1699428169087
+USER	Stress test	START	1699428169195
+USER	Stress test	START	1699428169288
+USER	Stress test	START	1699428169394
+USER	Stress test	START	1699428169486
+USER	Stress test	START	1699428169594
+USER	Stress test	START	1699428169685
+USER	Stress test	START	1699428169794
+USER	Stress test	START	1699428169887
+USER	Stress test	START	1699428169995
+USER	Stress test	START	1699428170087
+USER	Stress test	START	1699428170196
+USER	Stress test	START	1699428170288
+USER	Stress test	START	1699428170395
+USER	Stress test	START	1699428170487
+USER	Stress test	START	1699428170596
+USER	Stress test	START	1699428170690
+USER	Stress test	START	1699428170797
+USER	Stress test	START	1699428170891
+USER	Stress test	START	1699428170985
+USER	Stress test	START	1699428171094
+USER	Stress test	START	1699428171186
+USER	Stress test	START	1699428171294
+USER	Stress test	START	1699428171385
+USER	Stress test	START	1699428171493
+USER	Stress test	START	1699428171587
+USER	Stress test	START	1699428171694
+USER	Stress test	START	1699428171788
+USER	Stress test	START	1699428171895
+REQUEST		Get all games	1699428162003	1699428172016	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428162091	1699428172109	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428162183	1699428172188	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428162292	1699428172297	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428162386	1699428172391	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428162494	1699428172499	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428162587	1699428172592	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428162697	1699428172700	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428162790	1699428172807	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428162899	1699428172914	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428162991	1699428173008	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428163085	1699428173100	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428163193	1699428173207	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428163286	1699428173299	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428163393	1699428173408	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428163486	1699428173500	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428163596	1699428173609	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428163689	1699428173701	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428163797	1699428173809	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428163892	1699428173902	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428163999	1699428174011	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428164093	1699428174103	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428164185	1699428174196	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428164293	1699428174304	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428164387	1699428174396	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428164498	1699428174506	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428164585	1699428174598	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428164693	1699428174705	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428164786	1699428174798	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428164894	1699428174906	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428164986	1699428174999	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428165094	1699428175106	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428165186	1699428175199	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428165294	1699428175308	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428165387	1699428175400	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428165495	1699428175508	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428165588	1699428175601	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428165697	1699428175708	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428165788	1699428175801	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428165896	1699428175908	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428165988	1699428176001	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428166096	1699428176111	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428166189	1699428176203	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428166281	1699428176296	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428166390	1699428176403	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428166482	1699428176496	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428166591	1699428176605	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428166685	1699428176699	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428166793	1699428176806	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428166887	1699428176898	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428166994	1699428177008	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428167086	1699428177100	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428167194	1699428177208	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428167285	1699428177299	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428167393	1699428177406	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428167486	1699428177502	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428167594	1699428177596	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428167687	1699428177691	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428167795	1699428177799	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428167889	1699428177891	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428167996	1699428177999	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428168087	1699428178092	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428168196	1699428178201	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428168288	1699428178295	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428168382	1699428178387	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428168489	1699428178494	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428168597	1699428178602	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428168688	1699428178695	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428168794	1699428178803	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428168886	1699428178895	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428168993	1699428179004	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428169086	1699428179098	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428169194	1699428179206	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428169287	1699428179299	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428169393	1699428179408	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428169485	1699428179501	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428169594	1699428179611	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428169685	1699428179688	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428169793	1699428179797	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428169886	1699428179891	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428169994	1699428179999	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428170086	1699428180092	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428170195	1699428180201	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428170287	1699428180293	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428170394	1699428180401	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428170487	1699428180494	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428170595	1699428180602	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428170689	1699428180695	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428170797	1699428180803	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428170891	1699428180896	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428170984	1699428180988	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428171093	1699428181097	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428171185	1699428181190	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428171294	1699428181297	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428171384	1699428181389	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428171493	1699428181496	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428171586	1699428181589	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428171693	1699428181696	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428171787	1699428181790	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get all games	1699428171894	1699428181899	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428174036	1699428184049	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428174120	1699428184126	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428174196	1699428184205	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428174305	1699428184313	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428174397	1699428184406	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428174506	1699428184514	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428174598	1699428184608	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428174705	1699428184716	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428174814	1699428184824	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428174921	1699428184933	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428175015	1699428185026	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428175107	1699428185118	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428175215	1699428185227	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428175308	1699428185320	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428175416	1699428185429	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428175509	1699428185523	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428175616	1699428185631	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428175709	1699428185725	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428175817	1699428185834	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428175908	1699428185911	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428176016	1699428186020	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428186058
+REQUEST		Authenticate	1699428176111	1699428186127	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428186128
+REQUEST		Authenticate	1699428176204	1699428186221	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428186221
+REQUEST		Authenticate	1699428176312	1699428186328	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428186329
+REQUEST		Authenticate	1699428176404	1699428186406	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428186422
+REQUEST		Authenticate	1699428176511	1699428186516	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428186532
+REQUEST		Authenticate	1699428176606	1699428186608	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428186624
+REQUEST		Authenticate	1699428176715	1699428186717	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - MDK 	1699428186732
+REQUEST		Authenticate	1699428176806	1699428186809	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428186840
+REQUEST		Authenticate	1699428176915	1699428186917	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428186948
+REQUEST		Authenticate	1699428177008	1699428187025	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - MDK 	1699428187041
+REQUEST		Authenticate	1699428177116	1699428187131	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428187132
+REQUEST		Authenticate	1699428177208	1699428187224	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428187241
+REQUEST		Authenticate	1699428177315	1699428187316	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428187333
+REQUEST		Authenticate	1699428177407	1699428187423	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428187440
+REQUEST		Authenticate	1699428177518	1699428187532	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428187533
+REQUEST		Authenticate	1699428177613	1699428187625	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - MDK 	1699428187641
+REQUEST		Authenticate	1699428177722	1699428187733	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428187734
+REQUEST		Authenticate	1699428177815	1699428187826	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428187842
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428187921
+REQUEST		Authenticate	1699428177922	1699428187935	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428178015	1699428188029	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428188030
+REQUEST		Authenticate	1699428178123	1699428188136	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428188137
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428188229
+REQUEST		Authenticate	1699428178217	1699428188229	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428178311	1699428188322	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428188337
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428188413
+REQUEST		Authenticate	1699428178418	1699428188428	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428178510	1699428188520	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428188521
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - MDK 	1699428188613
+REQUEST		Authenticate	1699428178618	1699428188628	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428178711	1699428188721	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428188721
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428188813
+REQUEST		Authenticate	1699428178819	1699428188828	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Authenticate	1699428178911	1699428188922	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428188923
+REQUEST		Authenticate	1699428179020	1699428189032	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428189033
+REQUEST		Authenticate	1699428179113	1699428189124	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428189140
+REQUEST		Authenticate	1699428179223	1699428189232	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428189232
+REQUEST		Authenticate	1699428179316	1699428189326	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428189327
+REQUEST		Authenticate	1699428179408	1699428189418	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428189435
+REQUEST		Authenticate	1699428179518	1699428189526	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428189542
+REQUEST		Authenticate	1699428179612	1699428189619	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - MDK 	1699428189636
+REQUEST		Authenticate	1699428179705	1699428189715	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428189746
+REQUEST		Authenticate	1699428179814	1699428189824	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428189839
+REQUEST		Authenticate	1699428179906	1699428189916	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - MDK 	1699428189948
+REQUEST		Authenticate	1699428180016	1699428190025	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428190041
+REQUEST		Authenticate	1699428180108	1699428190117	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428190149
+REQUEST		Authenticate	1699428180216	1699428190225	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428190241
+REQUEST		Authenticate	1699428180309	1699428190318	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - MDK 	1699428190333
+REQUEST		Authenticate	1699428180401	1699428190410	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428190441
+REQUEST		Authenticate	1699428180509	1699428190518	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428190534
+REQUEST		Authenticate	1699428180618	1699428190625	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428190640
+REQUEST		Authenticate	1699428180710	1699428190718	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428190734
+REQUEST		Authenticate	1699428180819	1699428190826	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - MDK 	1699428190842
+REQUEST		Authenticate	1699428180911	1699428190918	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428190935
+REQUEST		Authenticate	1699428181019	1699428191027	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428191043
+REQUEST		Authenticate	1699428181113	1699428191121	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428191136
+REQUEST		Authenticate	1699428181221	1699428191229	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428191245
+REQUEST		Authenticate	1699428181312	1699428191322	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428191337
+REQUEST		Authenticate	1699428181420	1699428191431	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428191431
+REQUEST		Authenticate	1699428181512	1699428191524	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428191539
+REQUEST		Authenticate	1699428181621	1699428191633	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428191633
+REQUEST		Authenticate	1699428181697	1699428191709	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428191725
+REQUEST		Authenticate	1699428181806	1699428191817	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428191833
+REQUEST		Authenticate	1699428181899	1699428191909	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428191925
+REQUEST		Authenticate	1699428182009	1699428192017	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428192033
+REQUEST		Authenticate	1699428182102	1699428192110	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428192127
+REQUEST		Authenticate	1699428182210	1699428192221	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428192236
+REQUEST		Authenticate	1699428182304	1699428192312	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428192328
+REQUEST		Authenticate	1699428182413	1699428192422	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428192422
+REQUEST		Authenticate	1699428182505	1699428192515	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428192531
+REQUEST		Authenticate	1699428182613	1699428192623	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428192639
+REQUEST		Authenticate	1699428182707	1699428192716	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428192732
+REQUEST		Authenticate	1699428182815	1699428192824	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428192841
+REQUEST		Authenticate	1699428182907	1699428192918	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428192934
+REQUEST		Authenticate	1699428182999	1699428193011	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428193042
+REQUEST		Authenticate	1699428183107	1699428193118	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428193134
+REQUEST		Authenticate	1699428183199	1699428193211	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428193242
+REQUEST		Authenticate	1699428183307	1699428193319	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - MDK 	1699428193335
+REQUEST		Authenticate	1699428183399	1699428193412	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428193443
+REQUEST		Authenticate	1699428183508	1699428193519	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428193535
+REQUEST		Authenticate	1699428183600	1699428193612	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - MDK 	1699428193642
+REQUEST		Authenticate	1699428183708	1699428193719	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428193719
+REQUEST		Authenticate	1699428183801	1699428193812	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428193827
+REQUEST		Authenticate	1699428183911	1699428193919	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428193920
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428194027
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428194119
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428194228
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428194320
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428194429
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428194520
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - MDK 	1699428194629
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428194721
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428194828
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428194920
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - mario 	1699428195012
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428195135
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Doom 	1699428195228
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428195320
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - MDK 	1699428195413
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - MDK 	1699428195521
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Star Wars 	1699428195614
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - MDK 	1699428195722
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - CS 	1699428195814
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Create New Game - Tetris 	1699428195923
+REQUEST		Get Last Posted Game - Doom	1699428188078	1699428198093	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - Doom	1699428188136	1699428198140	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - CS	1699428188229	1699428198233	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - Tetris	1699428188337	1699428198341	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - Tetris	1699428188428	1699428198435	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - Doom	1699428188537	1699428198543	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - CS	1699428188628	1699428198635	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - MDK	1699428188736	1699428198743	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - Doom	1699428188845	1699428198850	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - Star Wars	1699428188954	1699428198960	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - MDK	1699428189047	1699428199052	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - Doom	1699428189140	1699428199145	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - Doom	1699428189248	1699428199255	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - Tetris	1699428189342	1699428199347	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - Doom	1699428189449	1699428199456	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - mario	1699428189542	1699428199548	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - MDK	1699428189651	1699428199658	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - mario	1699428189746	1699428199750	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - mario	1699428189854	1699428199858	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - Doom	1699428189932	1699428199936	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - Doom	1699428190041	1699428200042	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428200105
+USER	Stress test	END	1699428200108
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428200151
+USER	Stress test	END	1699428200151
+REQUEST		Get Last Posted Game - Tetris	1699428190149	1699428200167	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - mario	1699428190241	1699428200245	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428200245
+USER	Stress test	END	1699428200246
+REQUEST		Get Last Posted Game - Tetris	1699428190348	1699428200353	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428200353
+USER	Stress test	END	1699428200353
+REQUEST		Get Last Posted Game - Star Wars	1699428190426	1699428200430	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428200446
+USER	Stress test	END	1699428200447
+REQUEST		Get Last Posted Game - Tetris	1699428190533	1699428200537	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428200553
+USER	Stress test	END	1699428200554
+REQUEST		Get Last Posted Game - MDK	1699428190625	1699428200630	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428200646
+USER	Stress test	END	1699428200646
+REQUEST		Get Last Posted Game - Tetris	1699428190734	1699428200738	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - MDK 	1699428200754
+USER	Stress test	END	1699428200754
+REQUEST		Get Last Posted Game - Star Wars	1699428190826	1699428200831	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428200862
+USER	Stress test	END	1699428200863
+REQUEST		Get Last Posted Game - Tetris	1699428190935	1699428200940	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428200970
+USER	Stress test	END	1699428200970
+REQUEST		Get Last Posted Game - Star Wars	1699428191043	1699428201047	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - MDK 	1699428201063
+USER	Stress test	END	1699428201063
+REQUEST		Get Last Posted Game - Doom	1699428191151	1699428201154	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428201154
+USER	Stress test	END	1699428201155
+REQUEST		Get Last Posted Game - Tetris	1699428191245	1699428201248	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428201264
+USER	Stress test	END	1699428201264
+REQUEST		Get Last Posted Game - Doom	1699428191337	1699428201341	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428201358
+USER	Stress test	END	1699428201359
+REQUEST		Get Last Posted Game - CS	1699428191447	1699428201451	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428201466
+USER	Stress test	END	1699428201467
+REQUEST		Get Last Posted Game - Tetris	1699428191555	1699428201558	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428201558
+USER	Stress test	END	1699428201559
+REQUEST		Get Last Posted Game - MDK	1699428191649	1699428201651	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - MDK 	1699428201666
+USER	Stress test	END	1699428201667
+REQUEST		Get Last Posted Game - Doom	1699428191755	1699428201759	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428201760
+USER	Stress test	END	1699428201760
+REQUEST		Get Last Posted Game - mario	1699428191848	1699428201853	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428201868
+USER	Stress test	END	1699428201869
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428201946
+USER	Stress test	END	1699428201946
+REQUEST		Get Last Posted Game - MDK	1699428191956	1699428201962	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+REQUEST		Get Last Posted Game - Star Wars	1699428192049	1699428202054	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428202054
+USER	Stress test	END	1699428202054
+REQUEST		Get Last Posted Game - Star Wars	1699428192158	1699428202161	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428202177
+USER	Stress test	END	1699428202177
+REQUEST		Get Last Posted Game - CS	1699428192251	1699428202254	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428202255
+USER	Stress test	END	1699428202255
+REQUEST		Get Last Posted Game - MDK	1699428192343	1699428202347	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428202362
+USER	Stress test	END	1699428202363
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428202439
+USER	Stress test	END	1699428202439
+REQUEST		Get Last Posted Game - Star Wars	1699428192453	1699428202454	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428202547
+USER	Stress test	END	1699428202547
+REQUEST		Get Last Posted Game - mario	1699428192546	1699428202562	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - MDK 	1699428202637
+USER	Stress test	END	1699428202638
+REQUEST		Get Last Posted Game - Tetris	1699428192655	1699428202668	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428202745
+USER	Stress test	END	1699428202745
+REQUEST		Get Last Posted Game - Star Wars	1699428192747	1699428202760	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428202838
+USER	Stress test	END	1699428202838
+REQUEST		Get Last Posted Game - MDK	1699428192856	1699428202868	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428202947
+USER	Stress test	END	1699428202947
+REQUEST		Get Last Posted Game - Tetris	1699428192950	1699428202962	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428203054
+USER	Stress test	END	1699428203054
+REQUEST		Get Last Posted Game - mario	1699428193057	1699428203069	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428203162
+REQUEST		Get Last Posted Game - CS	1699428193150	1699428203162	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+USER	Stress test	END	1699428203163
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428203255
+USER	Stress test	END	1699428203255
+REQUEST		Get Last Posted Game - Doom	1699428193258	1699428203270	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428203348
+USER	Stress test	END	1699428203349
+REQUEST		Get Last Posted Game - CS	1699428193351	1699428203364	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428203460
+REQUEST		Get Last Posted Game - Doom	1699428193443	1699428203460	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+USER	Stress test	END	1699428203460
+REQUEST		Get Last Posted Game - Star Wars	1699428193551	1699428203553	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428203568
+USER	Stress test	END	1699428203569
+REQUEST		Get Last Posted Game - CS	1699428193642	1699428203647	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - MDK 	1699428203662
+USER	Stress test	END	1699428203663
+REQUEST		Get Last Posted Game - Doom	1699428193735	1699428203740	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428203770
+USER	Stress test	END	1699428203771
+REQUEST		Get Last Posted Game - Doom	1699428193843	1699428203847	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428203863
+USER	Stress test	END	1699428203863
+REQUEST		Get Last Posted Game - CS	1699428193935	1699428203940	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - MDK 	1699428203971
+USER	Stress test	END	1699428203971
+REQUEST		Get Last Posted Game - mario	1699428194042	1699428204047	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428204062
+USER	Stress test	END	1699428204063
+REQUEST		Get Last Posted Game - CS	1699428194135	1699428204140	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428204171
+USER	Stress test	END	1699428204172
+REQUEST		Get Last Posted Game - Tetris	1699428194243	1699428204249	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428204264
+USER	Stress test	END	1699428204265
+REQUEST		Get Last Posted Game - mario	1699428194335	1699428204341	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - MDK 	1699428204357
+USER	Stress test	END	1699428204357
+REQUEST		Get Last Posted Game - Doom	1699428194428	1699428204432	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428204464
+USER	Stress test	END	1699428204464
+REQUEST		Get Last Posted Game - CS	1699428194535	1699428204540	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428204571
+USER	Stress test	END	1699428204572
+REQUEST		Get Last Posted Game - CS	1699428194644	1699428204649	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428204680
+USER	Stress test	END	1699428204681
+REQUEST		Get Last Posted Game - Doom	1699428194736	1699428204742	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428204774
+USER	Stress test	END	1699428204774
+REQUEST		Get Last Posted Game - Doom	1699428194844	1699428204850	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - MDK 	1699428204881
+USER	Stress test	END	1699428204882
+REQUEST		Get Last Posted Game - mario	1699428194935	1699428204944	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428204975
+USER	Stress test	END	1699428204975
+REQUEST		Get Last Posted Game - Doom	1699428195044	1699428205052	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428205083
+USER	Stress test	END	1699428205084
+REQUEST		Get Last Posted Game - Star Wars	1699428195151	1699428205160	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428205176
+USER	Stress test	END	1699428205177
+REQUEST		Get Last Posted Game - CS	1699428195258	1699428205269	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428205284
+USER	Stress test	END	1699428205285
+REQUEST		Get Last Posted Game - MDK	1699428195351	1699428205361	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428205377
+USER	Stress test	END	1699428205378
+REQUEST		Get Last Posted Game - CS	1699428195458	1699428205469	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428205469
+USER	Stress test	END	1699428205470
+REQUEST		Get Last Posted Game - Star Wars	1699428195551	1699428205563	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428205564
+USER	Stress test	END	1699428205564
+REQUEST		Get Last Posted Game - MDK	1699428195645	1699428205657	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428205657
+USER	Stress test	END	1699428205657
+REQUEST		Get Last Posted Game - Star Wars	1699428195722	1699428205734	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428205749
+USER	Stress test	END	1699428205750
+REQUEST		Get Last Posted Game - mario	1699428195831	1699428205842	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428205857
+USER	Stress test	END	1699428205858
+REQUEST		Get Last Posted Game - Tetris	1699428195923	1699428205934	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428205950
+USER	Stress test	END	1699428205950
+REQUEST		Get Last Posted Game - Star Wars	1699428196033	1699428206042	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428206058
+USER	Stress test	END	1699428206058
+REQUEST		Get Last Posted Game - Doom	1699428196126	1699428206135	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428206151
+USER	Stress test	END	1699428206151
+REQUEST		Get Last Posted Game - mario	1699428196235	1699428206243	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428206258
+USER	Stress test	END	1699428206259
+REQUEST		Get Last Posted Game - Tetris	1699428196328	1699428206335	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428206351
+USER	Stress test	END	1699428206351
+REQUEST		Get Last Posted Game - Star Wars	1699428196436	1699428206443	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428206444
+USER	Stress test	END	1699428206444
+REQUEST		Get Last Posted Game - CS	1699428196529	1699428206537	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428206552
+USER	Stress test	END	1699428206553
+REQUEST		Get Last Posted Game - MDK	1699428196638	1699428206646	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428206662
+USER	Stress test	END	1699428206662
+REQUEST		Get Last Posted Game - mario	1699428196731	1699428206738	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428206753
+USER	Stress test	END	1699428206754
+REQUEST		Get Last Posted Game - Doom	1699428196839	1699428206847	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428206863
+USER	Stress test	END	1699428206863
+REQUEST		Get Last Posted Game - mario	1699428196933	1699428206939	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428206955
+USER	Stress test	END	1699428206956
+REQUEST		Get Last Posted Game - mario	1699428197026	1699428207033	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428207065
+USER	Stress test	END	1699428207066
+REQUEST		Get Last Posted Game - Tetris	1699428197151	1699428207158	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428207173
+USER	Stress test	END	1699428207173
+REQUEST		Get Last Posted Game - Doom	1699428197244	1699428207249	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428207281
+USER	Stress test	END	1699428207281
+REQUEST		Get Last Posted Game - CS	1699428197337	1699428207343	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - MDK 	1699428207374
+USER	Stress test	END	1699428207375
+REQUEST		Get Last Posted Game - MDK	1699428197429	1699428207436	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428207483
+USER	Stress test	END	1699428207483
+REQUEST		Get Last Posted Game - MDK	1699428197536	1699428207544	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428207575
+USER	Stress test	END	1699428207576
+REQUEST		Get Last Posted Game - Star Wars	1699428197629	1699428207638	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - MDK 	1699428207668
+USER	Stress test	END	1699428207669
+REQUEST		Get Last Posted Game - MDK	1699428197738	1699428207746	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428207747
+USER	Stress test	END	1699428207747
+REQUEST		Get Last Posted Game - CS	1699428197831	1699428207840	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428207855
+USER	Stress test	END	1699428207856
+REQUEST		Get Last Posted Game - Tetris	1699428197940	1699428207949	KO	i.n.c.ConnectTimeoutException: connection timed out: videogamedb.uk/46.101.16.10:443
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428207949
+USER	Stress test	END	1699428207950
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428208055
+USER	Stress test	END	1699428208056
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428208148
+USER	Stress test	END	1699428208148
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428208256
+USER	Stress test	END	1699428208257
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428208349
+USER	Stress test	END	1699428208350
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428208458
+USER	Stress test	END	1699428208459
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428208551
+USER	Stress test	END	1699428208551
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - MDK 	1699428208660
+USER	Stress test	END	1699428208661
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428208753
+USER	Stress test	END	1699428208754
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428208862
+USER	Stress test	END	1699428208862
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428208955
+USER	Stress test	END	1699428208955
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - mario 	1699428209048
+USER	Stress test	END	1699428209048
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428209172
+USER	Stress test	END	1699428209172
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Doom 	1699428209250
+USER	Stress test	END	1699428209251
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428209358
+USER	Stress test	END	1699428209358
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - MDK 	1699428209437
+USER	Stress test	END	1699428209438
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - MDK 	1699428209545
+USER	Stress test	END	1699428209546
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Star Wars 	1699428209653
+USER	Stress test	END	1699428209654
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - MDK 	1699428209760
+USER	Stress test	END	1699428209760
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - CS 	1699428209854
+USER	Stress test	END	1699428209854
+ERROR	No attribute named 'jwtToken' is defined: Failed to build request: Delete Game - Tetris 	1699428209962
+USER	Stress test	END	1699428209962
